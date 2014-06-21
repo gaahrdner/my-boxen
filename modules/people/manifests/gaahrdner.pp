@@ -19,7 +19,7 @@ class people::gaahrdner {
   include googledrive
   include flux
   include prezto
-  include lightroom
+  # include lightroom
   include chrome
   include gpgtools
   include rdio
